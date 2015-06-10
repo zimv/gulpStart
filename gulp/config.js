@@ -10,5 +10,9 @@ module.exports = {
 		settings: {					  //编译less过程需要的配置，可以为空
 
 		}
+	},
+	images: {
+		src: src + "/img/**/*",	  
+		dest: dest + "/img"
 	}
 }

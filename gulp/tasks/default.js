@@ -1,3 +1,3 @@
 var gulp = require('gulp');
 
-gulp.task('default', ['less','watch']);
+gulp.task('default', ['less', 'images', 'watch']);
