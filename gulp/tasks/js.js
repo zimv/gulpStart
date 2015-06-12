@@ -1,4 +1,3 @@
-var uglify = require('gulp-uglify');
 var gulp = require('gulp');
 var config = require('../config').js;
 
