@@ -1,3 +1,3 @@
 var gulp = require('gulp');
 
-gulp.task('deploy', ['less', 'imagemin']);
+gulp.task('deploy', ['less', 'uglify', 'imagemin']);

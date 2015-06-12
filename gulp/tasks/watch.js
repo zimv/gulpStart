@@ -9,4 +9,7 @@ gulp.task('watch', function(){
 	watch(config.images.src, function(){  //监听所有image
 		gulp.start('images'); 			
 	});
+	watch(config.js.src, function(){  //监听所有js
+		gulp.start('js'); 			
+	});
 })
