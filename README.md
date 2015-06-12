@@ -4,3 +4,4 @@ need to exec : npm install -g gulp
 	* less
 	* notify
 	* imagemin
+	* uglify
