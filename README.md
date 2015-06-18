@@ -5,3 +5,4 @@ need to exec : npm install -g gulp
 	* notify
 	* imagemin
 	* uglify
+	* clean
