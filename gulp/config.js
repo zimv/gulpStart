@@ -18,5 +18,8 @@ module.exports = {
 	js: {
 		src: src + "/js/**/*",
 		dest: dest + "/js"
+	},
+	clean:{
+		src: dest
 	}
 }
