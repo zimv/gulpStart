@@ -6,7 +6,7 @@ module.exports = function(){
 
 	notify.onError({
 		title: 'compile error',
-		message: '<%=error.message %>'
+		message: '<%=error%>'
 	}).apply(this, args);//替换为当前对象
 
 	this.emit();//提交
