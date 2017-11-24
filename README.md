@@ -1,6 +1,6 @@
-need to exec : npm install -g gulp
+## need to exec : npm install -g gulp
 
-##分支的搭建顺序(Branches set up order):
+## 分支的搭建顺序(Branches set up order):
 	* less
 	* notify
 	* imagemin
